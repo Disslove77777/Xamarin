@@ -251,13 +251,13 @@ function create_config( )
     "plugins",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {112693322,162912595,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[⚡️ Xamarin Anti Spam Bot v1.7
+    about_text = [[⚡️ 911 Anti Spam Bot v1.7
     
-  📢 Channel : @DarkTeam
-  👤 Admin : @AmirDark
+  📢 Channel : @th911ch
+  👤 Admin : @khan_2222
   
   🙏 Special Thanks to :
   
